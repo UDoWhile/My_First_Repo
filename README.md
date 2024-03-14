@@ -1,2 +1,1 @@
-# My_First_Repo
-Class exercise Week 1 Module 2
+I have created a new branch for practice March 14, 2024. Before class
